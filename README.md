@@ -1,4 +1,4 @@
-# Diabetes Predictionusing Machine Learning
+# Diabetes Predictio nusing Machine Learning
 Diabetes Prediction Using Machine Learning Algorithms  
 
 
