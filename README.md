@@ -1,4 +1,4 @@
-# Diabetes Predictio nusing Machine Learning
+# Diabetes Prediction using Machine Learning
 Diabetes Prediction Using Machine Learning Algorithms  
 
 
@@ -45,7 +45,7 @@ For making this files into deployment, make sure everything works fine. Don't fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
